@@ -23,6 +23,12 @@ namespace Tema3_Calculadora
         public MainWindow()
         {
             InitializeComponent();
+
+        }
+
+        public void btn_pressed(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
